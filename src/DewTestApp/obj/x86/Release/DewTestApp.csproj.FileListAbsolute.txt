@@ -1,0 +1,18 @@
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewASCOM\DewTestApp\bin\Release\ASCOM.myDewController.Test.exe.config
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewASCOM\DewTestApp\bin\Release\ASCOM.myDewController.Test.exe
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewASCOM\DewTestApp\bin\Release\ASCOM.myDewController.Test.pdb
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewASCOM\DewTestApp\obj\x86\Release\ASCOM.myDewController.Form1.resources
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewASCOM\DewTestApp\obj\x86\Release\ASCOM.myDewController.Properties.Resources.resources
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewASCOM\DewTestApp\obj\x86\Release\DewTestApp.csproj.GenerateResource.Cache
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewASCOM\DewTestApp\obj\x86\Release\ASCOM.myDewController.Test.exe
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewASCOM\DewTestApp\obj\x86\Release\ASCOM.myDewController.Test.pdb
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewASCOM\DewTestApp\obj\x86\Release\DewTestApp.csprojResolveAssemblyReference.cache
+D:\myFiles\myGitHub\myDewControllerPro3ASCOMOC\src\DewTestApp\bin\Release\ASCOM.myDewController.Test.exe.config
+D:\myFiles\myGitHub\myDewControllerPro3ASCOMOC\src\DewTestApp\obj\x86\Release\ASCOM.myDewController.Test.exe
+D:\myFiles\myGitHub\myDewControllerPro3ASCOMOC\src\DewTestApp\obj\x86\Release\ASCOM.myDewController.Test.pdb
+D:\myFiles\myGitHub\myDewControllerPro3ASCOMOC\src\DewTestApp\bin\Release\ASCOM.myDewController.Test.exe
+D:\myFiles\myGitHub\myDewControllerPro3ASCOMOC\src\DewTestApp\bin\Release\ASCOM.myDewController.Test.pdb
+D:\myFiles\myGitHub\myDewControllerPro3ASCOMOC\src\DewTestApp\obj\x86\Release\DewTestApp.csprojResolveAssemblyReference.cache
+D:\myFiles\myGitHub\myDewControllerPro3ASCOMOC\src\DewTestApp\obj\x86\Release\ASCOM.myDewController.Form1.resources
+D:\myFiles\myGitHub\myDewControllerPro3ASCOMOC\src\DewTestApp\obj\x86\Release\ASCOM.myDewController.Properties.Resources.resources
+D:\myFiles\myGitHub\myDewControllerPro3ASCOMOC\src\DewTestApp\obj\x86\Release\DewTestApp.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+D:\myFiles\myGitHub\myDewControllerPro3ASCOMOC\src\myDewASCOM\bin\Release\ASCOM.myDewController.ObservingConditions.dll.config
+D:\myFiles\myGitHub\myDewControllerPro3ASCOMOC\src\myDewASCOM\bin\Release\ASCOM.myDewController.ObservingConditions.dll
+D:\myFiles\myGitHub\myDewControllerPro3ASCOMOC\src\myDewASCOM\bin\Release\ASCOM.myDewController.ObservingConditions.pdb
+D:\myFiles\myGitHub\myDewControllerPro3ASCOMOC\src\myDewASCOM\obj\Release\myDewASCOM.csprojResolveAssemblyReference.cache
+D:\myFiles\myGitHub\myDewControllerPro3ASCOMOC\src\myDewASCOM\obj\Release\ASCOM.myDewController.Properties.Resources.resources
+D:\myFiles\myGitHub\myDewControllerPro3ASCOMOC\src\myDewASCOM\obj\Release\ASCOM.myDewController.SetupDialogForm.resources
+D:\myFiles\myGitHub\myDewControllerPro3ASCOMOC\src\myDewASCOM\obj\Release\myDewASCOM.csproj.GenerateResource.Cache
+D:\myFiles\myGitHub\myDewControllerPro3ASCOMOC\src\myDewASCOM\obj\Release\ASCOM.myDewController.ObservingConditions.dll
+D:\myFiles\myGitHub\myDewControllerPro3ASCOMOC\src\myDewASCOM\obj\Release\ASCOM.myDewController.ObservingConditions.pdb

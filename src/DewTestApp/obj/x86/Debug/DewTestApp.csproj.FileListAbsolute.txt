@@ -1,0 +1,17 @@
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewControllerASCOM\myDewControllerASCOM\myDewASCOM\DewTestApp\bin\Debug\ASCOM.myDewController.Test.exe.config
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewControllerASCOM\myDewControllerASCOM\myDewASCOM\DewTestApp\bin\Debug\ASCOM.myDewController.Test.exe
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewControllerASCOM\myDewControllerASCOM\myDewASCOM\DewTestApp\bin\Debug\ASCOM.myDewController.Test.pdb
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewControllerASCOM\myDewControllerASCOM\myDewASCOM\DewTestApp\obj\x86\Debug\ASCOM.myDewController.Form1.resources
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewControllerASCOM\myDewControllerASCOM\myDewASCOM\DewTestApp\obj\x86\Debug\ASCOM.myDewController.Properties.Resources.resources
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewControllerASCOM\myDewControllerASCOM\myDewASCOM\DewTestApp\obj\x86\Debug\DewTestApp.csproj.GenerateResource.Cache
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewControllerASCOM\myDewControllerASCOM\myDewASCOM\DewTestApp\obj\x86\Debug\ASCOM.myDewController.Test.exe
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewControllerASCOM\myDewControllerASCOM\myDewASCOM\DewTestApp\obj\x86\Debug\ASCOM.myDewController.Test.pdb
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewControllerASCOM\myDewControllerASCOM\myDewASCOM\DewTestApp\obj\x86\Debug\DewTestApp.csprojResolveAssemblyReference.cache
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewASCOM\DewTestApp\bin\Debug\ASCOM.myDewController.Test.exe.config
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewASCOM\DewTestApp\bin\Debug\ASCOM.myDewController.Test.exe
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewASCOM\DewTestApp\bin\Debug\ASCOM.myDewController.Test.pdb
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewASCOM\DewTestApp\obj\x86\Debug\ASCOM.myDewController.Form1.resources
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewASCOM\DewTestApp\obj\x86\Debug\ASCOM.myDewController.Properties.Resources.resources
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewASCOM\DewTestApp\obj\x86\Debug\DewTestApp.csproj.GenerateResource.Cache
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewASCOM\DewTestApp\obj\x86\Debug\ASCOM.myDewController.Test.exe
+D:\myfiles\myArduino\Arduino Project myDewController\Version 300\ASCOM OC Driver\myDewASCOM\DewTestApp\obj\x86\Debug\ASCOM.myDewController.Test.pdb
