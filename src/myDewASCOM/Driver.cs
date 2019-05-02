@@ -140,8 +140,14 @@ namespace ASCOM.myDewController
         {
             get
             {
-                tl.LogMessage("SupportedActions Get", "Returning empty arraylist");
-                return new ArrayList();
+                tl.LogMessage("SupportedActions Get", "Returning list...");
+                ArrayList supportedActions = new ArrayList();
+
+                supportedActions.Add("DewPoint");  
+                supportedActions.Add("Humidity");
+                supportedActions.Add("Temperature");
+                supportedActions.Add("AveragePeriod");
+                return supportedActions;
             }
         }
 
